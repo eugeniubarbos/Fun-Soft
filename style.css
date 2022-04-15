@@ -1,0 +1,103 @@
+#logo1{
+    width: 350px;
+}
+body{
+    background-color:#EAFFD0 ;
+    text-align: center;
+}
+.divimg{
+    position: absolute;
+    left: 50px;
+}
+#logo1:hover{
+    box-shadow: 0 0 .25rem rgba(0, 0, 0, 0.5), -.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+.navbar{
+    position: absolute;
+    right: 90px;
+    top: 50px;
+    /* display: inline-flex; */
+    margin: 0;
+}
+.divwelc{
+    font-family: 'Finger Paint';
+    position: relative;
+    top: 270px;
+    width: 35%;
+    margin: auto;
+    color: #F38181;
+    padding-bottom: ;
+}
+
+.p1{
+    background: linear-gradient(to bottom , #FCE38A, #EAFFD0);
+    padding: 20px;
+    display: inline-block;
+    font-size: 2rem; 
+    font-family: 'Finger Paint';
+    color: #F38181;
+    border: 0;
+    border-radius: 12px;
+    font-size: 24px;
+    outline: transparent;
+    padding: 1rem;
+}
+.p1:hover{
+    box-shadow: 0 0 .25rem #f50000,-.125rem -.125rem 1rem rgba(239, 71, 101, 0.5), .125rem .125rem 1rem rgba(255, 154, 90, 0.5);
+}
+.litlle1{
+  width: 500px;  
+  position:relative;
+  top: 300px;
+  padding-bottom: 300px;
+}
+.twopic{
+    height: 200px;
+    position: relative;
+    /* top: 400px; */
+}
+.pic1{
+    width: 350px;
+    border-radius: 50%;
+
+}
+.pic2{
+    width: 350px;
+    border-radius: 50%;
+}
+.pic1txt{
+    position: absolute;
+    left: 150px;
+    font-family: 'Finger Paint';
+    color: #95E1D3;
+    font-size: 2rem;
+    /* margin-top: 0; */
+}
+.pic2txt{
+    position: absolute;
+    right: 150px;
+    top: 1px;
+    font-family: 'Finger Paint';
+    color: #95E1D3;
+    font-size: 2rem;
+    
+
+}
+.div2{
+    padding-top: 100px;
+}
+.h1build{
+    font-family: 'Finger Paint';
+    color: #00ccff;
+    font-size: 2rem;
+    width: 30%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.arrow{
+    position: relative;
+    width: 200px;
+    margin: auto;
+    margin-top: 300px;
+
+}
